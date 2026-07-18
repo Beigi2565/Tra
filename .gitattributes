@@ -38,3 +38,7 @@ Test/Screenshot[[:space:]]2026-07-15[[:space:]]212818.png filter=lfs diff=lfs me
 Test/Screenshot[[:space:]]2026-07-15[[:space:]]212908.png filter=lfs diff=lfs merge=lfs -text
 Test/Screenshot[[:space:]]2026-07-17[[:space:]]132013.png filter=lfs diff=lfs merge=lfs -text
 Test/Screenshot[[:space:]]2026-07-17[[:space:]]132515.png filter=lfs diff=lfs merge=lfs -text
+results/traffic-test.png filter=lfs diff=lfs merge=lfs -text
+results/traffic-test2.png filter=lfs diff=lfs merge=lfs -text
+results/traffic-test3.png filter=lfs diff=lfs merge=lfs -text
+results/traffic-test4.png filter=lfs diff=lfs merge=lfs -text
