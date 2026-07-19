@@ -97,8 +97,8 @@ import onnxruntime as ort
 THRESHOLD = 0.4
 IMG_SIZE = 192
 GRID_SIZE = 48
-ONNX_PATH = "tiny_heatmap_car.onnx"
-DATA_PATH = "tiny_heatmap_car.onnx.data"
+ONNX_PATH = "tra-base.onnx"
+DATA_PATH = "tra-base.onnx.data"
 TEST_DIR = "/content/Test"
 
 def get_process_memory():
