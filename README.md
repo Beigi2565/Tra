@@ -1,5 +1,4 @@
 ---
-
 tags:
 - tinyml
 - vehicle-counting
@@ -7,6 +6,8 @@ tags:
 - pytorch
 - edge-ai
 - computer-vision
+base_model:
+- google/mobilenet_v2_1.0_224
 ---
 
 # tra-base-v1
