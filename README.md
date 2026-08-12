@@ -1,11 +1,10 @@
 ---
 tags:
 - tinyml
-- vehicle-counting
-- density-estimation
-- pytorch
 - edge-ai
-- computer-vision
+- object-detection
+- iot
+- automotive
 base_model:
 - google/mobilenet_v2_1.0_224
 ---
